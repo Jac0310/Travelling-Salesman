@@ -1,6 +1,6 @@
 # Traveling Salesman
 
-This coursework considers a simplified version of the travelling salesman problem.
+This project considers the travelling salesman problem.
 
 ## Purposes of this assignment
 
